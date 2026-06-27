@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/traum-von-freiheit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Traum von Freiheit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traum-von-freiheit/) |
+| **Get License** | [Official Music Licensing for Traum von Freiheit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traum-von-freiheit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3bfe79e1a02f5fb823f68f9e7256a901b816f7b0cbae6038259a07aee15b9e97` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
