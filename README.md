@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/traum-von-freiheit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Traum von Freiheit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traum-von-freiheit/) |
+| **Get License** | [License this song: Traum von Freiheit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traum-von-freiheit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, die City leuchtet nur für dich.. yeah..
+> Dein Blick trifft mein Herz, ein eiskalter Stich
+> Kein Limit heute Nacht, wir jagen den Traum von Freiheit
+> Nur du und ich im Benz, high speed in die Ewigkeit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
